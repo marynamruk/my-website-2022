@@ -4,7 +4,7 @@ title: "Maryna Mruk"
 
 During the russian-Ukrainian war, Maryna began a "fixer' for foreign journalists and at the same time write some optimistic news for Ukrainians.
 
-![Photo of Maryna Mruk](photo2.jpg)
+![Photo of Maryna Mruk] (images/photo2.jpg)
 
 ## Articles
 
