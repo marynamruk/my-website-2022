@@ -1,0 +1,16 @@
+{
+  "hash": "159faa4c788e5b210cd1ed04b830a38b",
+  "result": {
+    "markdown": "---\ntitle: \"Maryna Mruk\"\n---\n\n\nDuring the russian-Ukrainian war, Maryna began a \"fixer' for foreign journalists and at the same time write some optimistic news for Ukrainians.\n\n![Photo of Maryna Mruk](photo2.jpg){fig-align=\"center\"}\n\n## Articles\n\nTrain 700+ people every week. As the founder of FAST, Fedir Serdyuk trains the First Aid Defense Forces\n\n[![Fedir Serdyuk](images/2022-06-11%2010.44.43.jpg)](https://shotam.info/trenuiemo-700-liudey-shchotyzhnia-yak-zasnovnyk-fast-fedir-serdiuk-navchaie-pershoi-dopomohy-ukrainski-syly-oborony/)\n\n\n\n**You can find her articles in media [ShoTam.info](https://shotam.info).**\n\n\n\n\n::: {layout-ncol=2}\n[![Fedir Serdyuk](images/2022-06-11%2010.44.43.jpg)](https://shotam.info/trenuiemo-700-liudey-shchotyzhnia-yak-zasnovnyk-fast-fedir-serdiuk-navchaie-pershoi-dopomohy-ukrainski-syly-oborony/)\n\n![Photo of Maryna Mruk](photo2.jpg)\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n```{.r .cell-code}\nplot(pressure)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n\n```{.r .cell-code}\nplot(mtcars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-3.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,36 @@
+
+---
+title: "Maryna Mruk"
+---
+
+During the russian-Ukrainian war, Maryna began a "fixer' for foreign journalists and at the same time write some optimistic news for Ukrainians.
+
+![Photo of Maryna Mruk](photo2.jpg){fig-align="center"}
+
+## Articles
+
+Train 700+ people every week. As the founder of FAST, Fedir Serdyuk trains the First Aid Defense Forces
+
+[![Fedir Serdyuk](images/2022-06-11%2010.44.43.jpg)](https://shotam.info/trenuiemo-700-liudey-shchotyzhnia-yak-zasnovnyk-fast-fedir-serdiuk-navchaie-pershoi-dopomohy-ukrainski-syly-oborony/)
+
+
+
+**You can find her articles in media [ShoTam.info](https://shotam.info).**
+
+
+
+
+::: {layout-ncol=2}
+[![Fedir Serdyuk](images/2022-06-11%2010.44.43.jpg)](https://shotam.info/trenuiemo-700-liudey-shchotyzhnia-yak-zasnovnyk-fast-fedir-serdiuk-navchaie-pershoi-dopomohy-ukrainski-syly-oborony/)
+
+![Photo of Maryna Mruk](photo2.jpg)
+:::
+
+
+```{r}
+
+plot(cars)
+plot(pressure)
+plot(mtcars)
+```
+
