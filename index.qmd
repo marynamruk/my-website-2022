@@ -2,11 +2,11 @@
 title: "Maryna Mruk"
 ---
 
-During the russian-Ukrainian war, Maryna began a "fixer' for foreign journalists and at the same time write some optimistic news for Ukrainians.
+Since the beginning of the full-scale invasion of Ukraine by russianI, I have begun a "fixer' for foreign journalists and at the same time I've written some optimistic news for Ukrainians. I will attach some of them below.
 
-![Photo of Maryna Mruk] (images/photo2.jpg)
+![Photo of Maryna Mruk](images/photo2.jpg){width="320"}
 
-## Articles
+## My articles
 
 ### Train 700+ people every week. As the founder of FAST, Fedir Serdyuk trains the First Aid Defense Forces
 
@@ -22,8 +22,17 @@ They stayed in Kharkiv because they understood that in the event of a full-scale
 
 Activists travel to the hottest areas of the region, in fact to the forefront, and risk their own lives to save the four-legged animals and find them a new home. And although in the second week of the war a Russian shell hit the Adoption Center, they do not stop and continue to help animals that find themselves in abandoned apartments and under the rubble.
 
-[![NGO "Animal Rescue Kharkiv"](photo3.jpg)](https://shotam.info/evakuiuvaly-1200-tvaryn-yak-kharkivski-aktyvisty-vyvoziat-chotyrylapykh-z-pid-obstriliv-ta-riatuiut-ikhni-zhyttia/)
+[![NGO "Animal Rescue Kharkiv"](images/photo3.jpg){fig-align="center"}](https://shotam.info/evakuiuvaly-1200-tvaryn-yak-kharkivski-aktyvisty-vyvoziat-chotyrylapykh-z-pid-obstriliv-ta-riatuiut-ikhni-zhyttia/)
+
+### "You have to do, not talk." Leonid Ostaltsev, founder of the Veterano group, talks about starting with \$50, the value of business, and the readiness to fight back against invaders
+
+He returned from the war and began to help his fellows adapt to life after the front. And when he heard that they refused to hire them, he decided in a few minutes to sketch out a business plan for a future pizzeria. Thus came the Veterano brand - probably the most famous business of Ukrainian defenders. About the values and role of money, personal beliefs, incorrigible optimism and willingness to fight back the Russian occupiers, Leonid Ostaltsev told ShoTam.
+
+[![Leonid Ostaltsev Veterano Group founder, veteran of the Russian-Ukrainian war](images/photo4.jpg){fig-align="left"}](https://shotam.info/treba-robyty-a-ne-tryndity-zasnovnyk-veterano-leonid-ostaltsev-pro-start-iz-50-tsinnosti-biznesu-ta-hotovnist-davaty-vidsich-okupantam/)
 
 
-**You can find my articles in media [ShoTam.info](https://shotam.info).**
+## About Shotam
 
+**ShoTam** is a media outlet that helps keep the peace even in times of war. Each of our publications is a reason to be proud of our army, volunteers and every Ukrainian. And every donation you make is a contribution to the fight on the information front.
+
+**You can find all my articles at [ShoTam.info](https://shotam.info).**
