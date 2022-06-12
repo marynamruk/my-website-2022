@@ -2,9 +2,9 @@
 title: "Maryna Mruk"
 ---
 
-Since the beginning of the full-scale invasion of Ukraine by russianI, I have begun a "fixer' for foreign journalists and at the same time I've written some optimistic news for Ukrainians. I will attach some of them below.
+Since the beginning of the full-scale invasion of Ukraine by russian, I have begun a "fixer' for foreign journalists and at the same time I've written some optimistic news for Ukrainians. I will attach some of them below.
 
-![Photo of Maryna Mruk](images/photo2.jpg){width="320"}
+![Photo of Maryna Mruk](images/photo2.jpg){fig-align="left" width="320"}
 
 ## My articles
 
@@ -29,7 +29,6 @@ Activists travel to the hottest areas of the region, in fact to the forefront, a
 He returned from the war and began to help his fellows adapt to life after the front. And when he heard that they refused to hire them, he decided in a few minutes to sketch out a business plan for a future pizzeria. Thus came the Veterano brand - probably the most famous business of Ukrainian defenders. About the values and role of money, personal beliefs, incorrigible optimism and willingness to fight back the Russian occupiers, Leonid Ostaltsev told ShoTam.
 
 [![Leonid Ostaltsev Veterano Group founder, veteran of the Russian-Ukrainian war](images/photo4.jpg){fig-align="left"}](https://shotam.info/treba-robyty-a-ne-tryndity-zasnovnyk-veterano-leonid-ostaltsev-pro-start-iz-50-tsinnosti-biznesu-ta-hotovnist-davaty-vidsich-okupantam/)
-
 
 ## About ShoTam
 

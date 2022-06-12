@@ -6,9 +6,9 @@ website:
   title: "Maryna Mruk"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: https://shotam.info
+        text: ShoTam
+   
 
 format:
   html:
